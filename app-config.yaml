@@ -1,0 +1,4 @@
+jenkins:
+  baseUrl: http://54.170.235.133:8080/
+  username: admin1
+  apiKey: 11a8c8c09cf7efd46beeabebd8468f506d
