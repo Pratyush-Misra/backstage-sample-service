@@ -26,8 +26,3 @@ spec:
   type: service
   lifecycle: experimental
   owner: briandesousa
-
-jenkins:
-  baseUrl: http://18.232.250.51:8080
-  username: admin
-  apiKey: 117c4c7ae079ed3e262ce39efafacab469
