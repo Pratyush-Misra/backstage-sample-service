@@ -15,8 +15,7 @@ metadata:
   annotations:
     pagerduty.com/integration-key: c9181af33a984c06d01144f420df074e
     opsgenie.com/component-selector: 'tag:"service:backstage-sample-service"'
-    jenkins.io/github-folder: 'folder/first-job'
-    jenkins.io/github-folder: 'folder/second-job'
+    jenkins.io/github-folder: 'folder/Job-1'
     fossa.io/project-name: backstage-sample-service
     snyk.io/org-name: briand
     snyk.io/project-ids: 1aff69bc-de69-4d0c-b069-187b159c4465
